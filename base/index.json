@@ -1,0 +1,38 @@
+﻿{
+    "updated":  1787720046,
+    "packs":  [
+                  {
+                      "id":  "en-ru",
+                      "title":  "English \u003c-\u003e Русский",
+                      "file":  "en-ru.json",
+                      "langs":  [
+                                    "en",
+                                    "ru"
+                                ],
+                      "rules":  0,
+                      "updated":  1787720046
+                  },
+                  {
+                      "id":  "en-kk",
+                      "title":  "English \u003c-\u003e Қазақша",
+                      "file":  "en-kk.json",
+                      "langs":  [
+                                    "en",
+                                    "kk"
+                                ],
+                      "rules":  0,
+                      "updated":  1787720046
+                  },
+                  {
+                      "id":  "kk-ru",
+                      "title":  "Русский \u003c-\u003e Қазақша",
+                      "file":  "kk-ru.json",
+                      "langs":  [
+                                    "kk",
+                                    "ru"
+                                ],
+                      "rules":  0,
+                      "updated":  1787720046
+                  }
+              ]
+}
